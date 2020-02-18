@@ -1,0 +1,43 @@
+body {
+    background-color: #dcdbdb;
+    border: 2px solid black;
+    color: black;
+    font-family: Arial;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
+    padding: 5px;
+    width: 800px;
+}
+
+div {
+    background-color: white;
+    color: dimgrey;
+}
+
+h1 {
+    border-bottom: 2px solid black;
+    color: #1bb9c2;
+    padding: 1.5em;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 1px dotted #1bb9c2;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    padding-bottom: 10px;
+    text-align: left;
+    width: 80%;
+}
+
+p {
+    line-height: 1.5em;
+    margin-left: 40px;
+}
+
+a {
+    color: #1bb9c2;
+    font-weight: 700;
+}
