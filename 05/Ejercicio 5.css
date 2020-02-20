@@ -1,9 +1,11 @@
 p.rside {
     /* Añade los estilos */
+    float: right;
 }
 
 p.lside {
     /* Añade los estilos */
+    float: left;
 }
 
 div {
